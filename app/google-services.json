@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342220496946",
+    "firebase_url": "https://instagramlike-402e9.firebaseio.com",
+    "project_id": "instagramlike-402e9",
+    "storage_bucket": "instagramlike-402e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342220496946:android:cefc1206f39ab35d001c2b",
+        "android_client_info": {
+          "package_name": "com.example.instagramlike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342220496946-ar8udqd941auamc63nuari7tilkgbkhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbsWNyInTFcHniYnvCi55pZQB93E663eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342220496946-ar8udqd941auamc63nuari7tilkgbkhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
